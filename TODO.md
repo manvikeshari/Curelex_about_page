@@ -1,4 +1,1 @@
-- [ ] Change theme to blended blue shades in styles.css
-- [ ] Make footer larger by increasing padding
-- [ ] Add Font Awesome link to index.html
-- [ ] Add icons to footer sections in index.html
+
